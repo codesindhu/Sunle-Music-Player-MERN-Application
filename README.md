@@ -1,5 +1,5 @@
 <h1 align="center">
-   Vusic | The music destination you want.
+  Sunle | The music destination you want.
 </h1>
 
 <div align="center">
