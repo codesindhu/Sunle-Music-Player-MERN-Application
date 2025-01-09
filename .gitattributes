@@ -1,0 +1,17 @@
+# Set text files to use LF line endings
+* text=auto
+
+# Explicitly handle common text file types
+*.js    text eol=lf
+*.jsx   text eol=lf
+*.css   text eol=lf
+*.scss  text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+
+# Handle binary files
+*.svg   binary
+*.png   binary
+*.jpg   binary
+*.gif   binary
